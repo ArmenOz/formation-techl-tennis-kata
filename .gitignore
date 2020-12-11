@@ -1,0 +1,15 @@
+*.class
+target/
+bin/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ files
+*.iml
+.idea/
+
+# VS Code
+.vscode/
